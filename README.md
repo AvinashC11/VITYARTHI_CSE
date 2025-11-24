@@ -168,7 +168,7 @@ python -m pytest tests/test_classifier.py::test_preprocessing
 4. **Text Preprocessing**: Handling special characters, URLs, and email-specific patterns required careful regex patterns.
 
 ## Contributors
-- **Your Name** - VIT Bhopal - Registration Number
+- **AVINASH.C** - VIT Bhopal - 25BCY10032
 
 ## License
 This project is created for educational purposes as part of VIT Bhopal coursework.
@@ -186,4 +186,4 @@ Special thanks to:
 - Open-source ML community for tools and libraries
 
 ---
-**Last Updated**: November 2024
+**Last Updated**: November 2025
